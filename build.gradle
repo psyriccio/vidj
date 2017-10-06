@@ -48,6 +48,9 @@ repositories {
     maven {
         url 'https://raw.github.com/Ekito/maven-repo/master/releases'
     }
+    maven {
+        url 'http://maven.openimaj.org/'
+    }
 }
 
 jar {
