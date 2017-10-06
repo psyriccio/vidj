@@ -49,7 +49,7 @@ repositories {
         url 'https://raw.github.com/Ekito/maven-repo/master/releases'
     }
     maven {
-        url 'http://maven.openimaj.org/'
+        url 'http://jws.forteholding.ru/nexus/content/repositories/ImageJ/'
     }
 }
 
