@@ -2,4 +2,4 @@
 ./build.sh
 #./gradlew mkReleaseUpload
 #./gradlew uploadArchives
-mv -f ./*.jar ./dist/
+#mv -f ./*.jar ./dist/
